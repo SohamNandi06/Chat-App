@@ -66,3 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+ ::-webkit-scrollbar {
+  display: none;
+ }
+ img.dot{
+  width: 15px !important;
+
+ }
